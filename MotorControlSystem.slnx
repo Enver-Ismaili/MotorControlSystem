@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MotorControlSystem.vcxproj" />
+  <Project Path="MotorControlSystem.vcxproj" Id="d1bb3d46-0caf-4efd-8db3-fb1af94230c5" />
 </Solution>
