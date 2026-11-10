@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# MSBuild intermediates
+*.tlog
+*.log
+*.idb
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.recipe
+MotorCon.*/
